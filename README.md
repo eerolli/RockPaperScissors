@@ -1,3 +1,3 @@
 # RockPaperScissors
 ## The Odin Project challenge
-A console based rock paper scissors game
+A simple rock paper scissors game with buttons
